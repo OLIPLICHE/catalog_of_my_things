@@ -1,6 +1,6 @@
 # Catalog of my things
 
-"Catalog of my things" is a console app that allows users to manage collections of the things they own. It keeps a record of different types of things that belong to users: books, music albums, movies, and games. The data is stored in JSON files..........
+"Catalog of my things" is a console app that allows users to manage collections of the things they own. It keeps a record of different types of things that belong to users: books, music albums, movies, and games. The data is stored in JSON files........
 
 ## Getting Started
 - git clone https://github.com/Rustamxon7/OOP-school-library/
